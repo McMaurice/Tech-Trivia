@@ -25,10 +25,16 @@ Preview: Appetize.io => https://appetize.io/app/b_aoempgq6kqqcn4qgtfypp6chva
 
 Screenshots:
 
-![Trivia3](https://github.com/user-attachments/assets/20deb93c-2d09-4440-9564-0eaf2a302142)
-![Trivia2](https://github.com/user-attachments/assets/e425bca1-ed4f-49a2-80da-5a5547b78a73)
-![Trivia1](https://github.com/user-attachments/assets/91bb0edd-a3b4-4d7e-a40a-8f3a0ec84f4d)
-![Trivia4](https://github.com/user-attachments/assets/0e448dcb-4798-414a-b36f-6ddd854ae77d)
+## 📸 Screenshots
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+  <img src="https://github.com/user-attachments/assets/20deb93c-2d09-4440-9564-0eaf2a302142" width="200" alt="Trivia Screenshot 1" />
+  <img src="https://github.com/user-attachments/assets/e425bca1-ed4f-49a2-80da-5a5547b78a73" width="200" alt="Trivia Screenshot 2" />
+  <img src="https://github.com/user-attachments/assets/91bb0edd-a3b4-4d7e-a40a-8f3a0ec84f4d" width="200" alt="Trivia Screenshot 3" />
+  <img src="https://github.com/user-attachments/assets/0e448dcb-4798-414a-b36f-6ddd854ae77d" width="200" alt="Trivia Screenshot 4" />
+
+</div>
 
 
 📲 How to Run the App
